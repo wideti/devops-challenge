@@ -12,7 +12,7 @@ Desta forma o time de desenvolvimento já preparou a plataforma de marketing par
 
 Sua missão é entregar duas versões do site em URL's distintas. Abaixo um desenho da arquitetura proposta pelo time de tecnologia:
 
-(https://github.com/wideti/devops-challenge/blob/master/devops.png?raw=true)
+![alt text](https://github.com/wideti/devops-challenge/blob/master/devops.png?raw=true "topologia")
 
 ## Requisitos
 - Fazer o deploy de 2 Wordpress no EKS.
