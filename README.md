@@ -1,11 +1,15 @@
 # Wide Software - DevOps Challenge
 Bem vindo ao teste de DevOps da Wide.
+
 Recebemos uma estória de usuário do nosso time de marketing para auxiliar em uma nova campanha do nosso produto.
+
 Em um brainstorm o time chegou à conclusão que para ter maior eficácia será necessário criar dois sites distintos, um para leads do setor alimentício e outro para leads do setor de eventos.
 
 A estória diz o seguinte:
 “Como administrador de marketing, preciso conseguir escolher qual versão do site será disparado para nossa base de leads.”
+
 Desta forma o time de desenvolvimento já preparou a plataforma de marketing para receber duas URL's e desta forma o pessoal do marketing poderá optar por uma ou por outra.
+
 Sua missão é entregar duas versões do site em URL's distintas. Abaixo um desenho da arquitetura proposta pelo time de tecnologia:
 
 ## Requisitos
