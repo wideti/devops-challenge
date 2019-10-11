@@ -12,6 +12,8 @@ Desta forma o time de desenvolvimento já preparou a plataforma de marketing par
 
 Sua missão é entregar duas versões do site em URL's distintas. Abaixo um desenho da arquitetura proposta pelo time de tecnologia:
 
+(https://github.com/wideti/devops-challenge/blob/master/devops.png?raw=true)
+
 ## Requisitos
 - Fazer o deploy de 2 Wordpress no EKS.
 - Ao acessar /alimenticio, o acesso será redirecionado para wordpress_ali. 
